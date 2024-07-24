@@ -10,3 +10,16 @@ body {
     color: #007bff;
   }
   
+
+  /* Add some new styles */
+h1 {
+    color: #007bff;
+    font-size: 2em;
+  }
+  
+  form {
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
